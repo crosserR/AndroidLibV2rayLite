@@ -1,4 +1,4 @@
-module github.com/crosserR/AndroidLibV2rayLite
+module github.com/2dust/AndroidLibV2rayLite
 
 go 1.16
 
